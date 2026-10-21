@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix フタリソウサ",
+  "description": "TRPG『フタリソウサ』のシチュエーション調査、探偵・助手クラス、アクションスキルを網羅したオンラインまとめツール",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
